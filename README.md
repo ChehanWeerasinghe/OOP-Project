@@ -1,2 +1,4 @@
-# OOP-Project
-Online vehicle reservation that allows customer to order a vehicle using through the application, it handles all client-side operations Developed using JSP servlets and MySQL as our second year first-semester project for the OOP module.
+# jsp-servlet-jdbc-mysql-crud-tutorial
+JSP Servlet JDBC MySQL CRUD Example Tutorial 
+
+https://www.javaguides.net/2019/03/jsp-servlet-jdbc-mysql-crud-example-tutorial.html
